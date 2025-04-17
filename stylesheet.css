@@ -10,6 +10,10 @@
       padding: 0;
     }
 
+    .single-header {
+      text-align: center;
+    }
+
     .single-header h1 {
       font-family: 'M PLUS Rounded 1c', sans-serif;
       font-size: 2.2em;
@@ -17,7 +21,7 @@
       text-align: center;
       border-bottom: 2px solid #9e9698;
       display: inline-block;
-      padding-bottom: 1px;
+      padding-bottom: 10px;
       margin: 0;
     }
 
