@@ -40,10 +40,10 @@
     }
 
     .small-thumb {
-      width: 60%;       /* 画像の幅を60%に（好みに応じて調整OK） */
-      max-width: 300px; /* 最大でも300pxまで */
+      width: 90%;
+      max-width: 500px;
       height: auto;
-      margin: 0 auto;   /* 中央に寄せたいとき */
+      margin: 0 auto;
       display: block;
     }
 
