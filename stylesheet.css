@@ -39,6 +39,14 @@
       transform: scale(1.03);
     }
 
+    .small-thumb {
+      width: 60%;       /* 画像の幅を60%に（好みに応じて調整OK） */
+      max-width: 300px; /* 最大でも300pxまで */
+      height: auto;
+      margin: 0 auto;   /* 中央に寄せたいとき */
+      display: block;
+    }
+
     footer {
       background-color: #eee;
       text-align: center;
