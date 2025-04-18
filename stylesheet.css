@@ -7,11 +7,11 @@
     }
 
     header {
+      text-align: center;
       padding: 0;
     }
 
     .single-header {
-      text-align: center;
       padding-top: 40px;
     }
 
